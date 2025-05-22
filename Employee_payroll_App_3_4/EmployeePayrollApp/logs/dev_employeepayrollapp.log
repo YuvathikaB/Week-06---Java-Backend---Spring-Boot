@@ -1,0 +1,162 @@
+2025-05-24 22:13:10.758 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.example.employeepayrollapp' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.example.employeepayrollapp
+    Value: ".employeepayrollapp=DEBUG "
+    Origin: class path resource [application-dev.properties] - 3:46
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel..employeepayrollapp=DEBUG)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-05-24 22:14:28.587 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.example.employeepayrollapp' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.example.employeepayrollapp
+    Value: ".employeepayrollapp=DEBUG "
+    Origin: class path resource [application-dev.properties] - 3:46
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel..employeepayrollapp=DEBUG)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-05-24 22:15:49.838 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.example.employeepayrollapp' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.example.employeepayrollapp
+    Value: ".employeepayrollapp=DEBUG "
+    Origin: class path resource [application-dev.properties] - 3:46
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel..employeepayrollapp=DEBUG)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-05-24 22:16:03.029 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.example.employeepayrollapp' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.example.employeepayrollapp
+    Value: ".employeepayrollapp=DEBUG "
+    Origin: class path resource [application-dev.properties] - 3:46
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel..employeepayrollapp=DEBUG)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-05-24 22:17:32.926 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.example.employeepayrollapp' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.example.employeepayrollapp
+    Value: ".EmployeePayrollApp=DEBUG "
+    Origin: class path resource [application-dev.properties] - 3:46
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel..EmployeePayrollApp=DEBUG)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+
+2025-05-24 22:18:45.699 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'logging.level.com.example.employeepayrollapp' to org.springframework.boot.logging.LogLevel:
+
+    Property: logging.level.com.example.employeepayrollapp
+    Value: ".EmployeePayrollApp=DEBUG "
+    Origin: class path resource [application-dev.properties] - 3:46
+    Reason: failed to convert java.lang.String to org.springframework.boot.logging.LogLevel (caused by java.lang.IllegalArgumentException: No enum constant org.springframework.boot.logging.LogLevel..EmployeePayrollApp=DEBUG)
+
+Action:
+
+Update your application's configuration. The following values are valid:
+
+    DEBUG
+    ERROR
+    FATAL
+    INFO
+    OFF
+    TRACE
+    WARN
+

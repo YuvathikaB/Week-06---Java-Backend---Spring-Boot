@@ -1,0 +1,25 @@
+2025-05-24 22:23:15.244 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Starting EmployeePayrollAppApplication using Java 17.0.12 with PID 23660 (C:\Users\Yuvathika\Desktop\Java BL\SpringBoot\EmployeePayrollApp\target\classes started by Yuvathika in C:\Users\Yuvathika\Desktop\Java BL\SpringBoot\EmployeePayrollApp)
+2025-05-24 22:23:15.247 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - The following 1 profile is active: "prod"
+2025-05-24 22:23:16.965 [restartedMain] WARN  c.z.hikari.util.DriverDataSource - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2025-05-24 22:23:18.717 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-24 22:23:19.197 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2025-05-24 22:23:19.238 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-05-24 22:23:19.298 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-05-24 22:23:46.198 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Starting EmployeePayrollAppApplication using Java 17.0.12 with PID 16880 (C:\Users\Yuvathika\Desktop\Java BL\SpringBoot\EmployeePayrollApp\target\classes started by Yuvathika in C:\Users\Yuvathika\Desktop\Java BL\SpringBoot\EmployeePayrollApp)
+2025-05-24 22:23:46.201 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - The following 1 profile is active: "prod"
+2025-05-24 22:23:47.908 [restartedMain] WARN  c.z.hikari.util.DriverDataSource - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2025-05-24 22:23:49.435 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-24 22:23:49.946 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Started EmployeePayrollAppApplication in 4.296 seconds (process running for 5.189)
